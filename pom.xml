@@ -80,7 +80,7 @@
               <execution>
                 <phase>generate-sources</phase>
                 <goals>
-                  <goal>local-generate</goal>
+                  <goal>generate</goal>
                 </goals>
               </execution>
             </executions>
